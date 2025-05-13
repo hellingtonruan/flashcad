@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-  categoria,
+  categori,
   pergunta,
   resposta
 
